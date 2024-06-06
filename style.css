@@ -11,3 +11,9 @@ text-align: center;
 .direita{
     text-align: right;
 }
+ .imagem{
+background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fjujutsu-kaisen.fandom.com%2Fwiki%2FEight-Handled_Sword_Divergent_Sila_Divine_General_Mahoraga&psig=AOvVaw3LfJAf39k812f7S3UGrX-E&ust=1717761844287000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjojdb3xoYDFQAAAAAdAAAAABAE);
+background-size: cover;
+background-position: center;
+
+ }
